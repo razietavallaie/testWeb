@@ -17,6 +17,7 @@ function App() {
 
         </h1>
         <p>Heyyy</p>
+        <p className='mehrad-text' >my boy is Mehrad</p>
       </header>
     </div>
   );
